@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.3.32929.385
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "soundcloud", "soundcloud\soundcloud.csproj", "{951B0A7D-D3D6-4C81-AB26-48D5C40B876D}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{951B0A7D-D3D6-4C81-AB26-48D5C40B876D}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{951B0A7D-D3D6-4C81-AB26-48D5C40B876D}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{951B0A7D-D3D6-4C81-AB26-48D5C40B876D}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{951B0A7D-D3D6-4C81-AB26-48D5C40B876D}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {DE98FA96-DE6F-4223-8C95-761FC77DDE48}
+	EndGlobalSection
+EndGlobal
