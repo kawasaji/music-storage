@@ -13,3 +13,5 @@ C:\Users\Gusey_sk41\Documents\music-storage\soundcloud\soundcloud\obj\Debug\net6
 C:\Users\Gusey_sk41\Documents\music-storage\soundcloud\soundcloud\obj\Debug\net6.0\soundcloud.pdb
 C:\Users\Gusey_sk41\Documents\music-storage\soundcloud\soundcloud\obj\Debug\net6.0\soundcloud.genruntimeconfig.cache
 C:\Users\Gusey_sk41\Documents\music-storage\soundcloud\soundcloud\obj\Debug\net6.0\ref\soundcloud.dll
+C:\Users\Gusey_sk41\Documents\music-storage\soundcloud\soundcloud\bin\Debug\net6.0\Newtonsoft.Json.dll
+C:\Users\Gusey_sk41\Documents\music-storage\soundcloud\soundcloud\obj\Debug\net6.0\soundcloud.csproj.CopyComplete
